@@ -977,6 +977,13 @@
           "text": "Питання\n\nPytannya\n\nQuestion"
         }
       ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Шукати\n\nShukaty\n\nChercher"
+        }
+      ]
     }
   ]
 }
