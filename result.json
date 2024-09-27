@@ -1,112 +1,982 @@
 {
-  "name": "Просто - Just",
-  "type": "public_channel",
-  "id": 1446064487,
   "messages": [
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Привіт\n\nPryvit\n\nSalut"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Добрий день\n\nDobriy den\n\nBonjour"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Добрий вечір\n\nDobriy vechir\n\nBonsoir"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Дякую\n\nDakuyu\n\nMerci"
-     }
-    ]
-   },
-   
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Тому що\n\nTomu shcho\n\nParce que / Car"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Через те що\n\nCherez te shcho\n\nÀ cause de"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Завдяки тому що\n\nZavdyaky tomu shcho\n\nGrâce à"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "У зв'язку з тим що\n\nU zv’yazku z tym shcho\n\nEn raison de"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Оскільки\n\nOs'kilky\n\nPuisque"
-     }
-    ]
-   },
-   {
-    "text_entities": [
-     {
-      "type": "plain",
-      "text": "Через\n\nCherez\n\nÀ cause de / à travers"
-     }
-    ]
-   },
-   {
-     "text_entities": [
-      {
-       "type": "plain",
-       "text": "Книга\n\nKnyha\n\nLivre"
-      }
-     ]
-   },
-   {
-     "text_entities": [
-      {
-       "type": "plain",
-       "text": "Дім/Будинок/Хата\n\nDim/Budinok/Hata\n\nMaison"
-      }
-     ]
+    {
+      "text_entities": [
+        {
+          "text": "Цікавий факт в Українській мові:\nВ Українській мові немає НІКОЛИ таких букв як: ы, э і ё.\n\nTsikavyy fakt v Ukrayins'kiy movi:\nV Ukrayins'kiy movi nemaє NIKOLY takykh bukv yak: y, e i yo.\n\nFait intéressant dans la langue ukrainienne :\nDans la langue ukrainienne, il n'y a JAMAIS de lettres telles que : ы, э et ё."
+        }
+      ]
     },
     {
       "text_entities": [
-       {
-        "type": "plain",
-        "text": "Цікавий факт в Українській мові:\nВ Українській мові немає НІКОЛИ таких букв як: ы, э і ё.\n\nTsikavyy fakt v Ukrayins'kiy movi:\nV Ukrayins'kiy movi nemaє NIKOLY takykh bukv yak: y, e i yo.\n\nFait intéressant dans la langue ukrainienne :\nDans la langue ukrainienne, il n'y a JAMAIS de lettres telles que : ы, э et ё."
-       }
+        {
+          "text": "Цікавий факт в Українській мові:\nВ Українській мові є два дієслова: Любити і Кохати, але вони мають абсолютно різні значення. Любити, ми можемо друзів, котів, рослин, їжу, тощо. Але кохати можемо ЛИШЕ людину до якої маємо сильні почуття, з якою хочемо бути разом до кінця нашого життя, одружитись і так далі.\n\nV Ukrayins'kiy movi ye dva diieslova: Lyubyty i Kokhaty, ale vony mayut absolyutno rizni znachennya. Lyubyty, my mozhemo druziv, kotiv, roslyn, yizhu, toshcho. Ale kokhaty mozhemo LYSHE lyudynu do yakoyi mayemo syl'ni pochuttya, z yakoyu khochemo buty razom do kintsya nashoho zhyttya, odruzhytys' i tak dali.\n\nEn langue ukrainienne, il existe deux verbes : Aimer et Chérir, mais ils ont des significations complètement différentes. Nous pouvons aimer nos amis, les chats, les plantes, la nourriture, etc. Mais nous pouvons CHÉRIR uniquement une personne pour qui nous avons des sentiments profonds, avec qui nous voulons être ensemble jusqu'à la fin de notre vie, nous marier, etc."
+        }
       ]
-     }
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Привіт\n\nPryvit\n\nSalut"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Добрий день\n\nDobriy den\n\nBonjour"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Добрий вечір\n\nDobriy vechir\n\nBonsoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Бігати\n\nBihaty\n\nCourir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Говорити\n\nHovoryty\n\nParler"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Читати\n\nChytaty\n\nLire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Писати\n\nPysaty\n\nÉcrire"
+        }
+      ]
+    },
+
+
+    {
+      "text_entities": [
+        {
+          "text": "Їсти\n\nYisty\n\nManger"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Пити\n\nPyty\n\nBoire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Спати\n\nSpaty\n\nDormir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Сидіти\n\nSydity\n\nS'asseoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Стояти\n\nStoyaty\n\nSe tenir debout"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Знати\n\nZnaty\n\nSavoir"
+        }
+      ]
+    },
+
+    {
+      "text_entities": [
+        {
+          "text": "Дивитися\n\nDyvytysia\n\nRegarder"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Любити\n\nLyubyty\n\nAimer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Кохати\n\nKohaty\n\nAimer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Працювати\n\nPratsyuvaty\n\nTravailler"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Грати\n\nHraty\n\nJouer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Приготувати\n\nPryhotuvaty\n\nPréparer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Їхати\n\nYikhaty\n\nAller"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Жити\n\nZhyty\n\nVivre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Співати\n\nSpivaty\n\nChanter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Малювати\n\nMalyuvaty\n\nDessiner"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Танцювати\n\nTantsyuvaty\n\nDanser"
+        }
+      ]
+    },
+
+    {
+      "text_entities": [
+        {
+          "text": "Брати\n\nBraty\n\nPrendre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Вчити\n\nVchyty\n\nApprendre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Дарувати\n\nDaruvaty\n\nOffrir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Віддавати\n\nViddavaty\n\nDonner"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Допомагати\n\nDopomahaty\n\nAider"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Приходити\n\nPrykhodyty\n\nVenir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Купувати\n\nKupuvaty\n\nAcheter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Продавати\n\nProdavaty\n\nVendre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Запитувати / Питати\n\nZapytuvaty / Pytaty\n\nDemander"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Відповідати\n\nVidpovidaty\n\nRépondre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Показувати\n\nPokazuvaty\n\nMontrer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Будувати\n\nBuduvaty\n\nConstruire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Рухатися\n\nRukhatysia\n\nBouger"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Зупинятися\n\nZupynyatysia\n\nS'arrêter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Розпочинати / Починати\n\nRozpochynaty / Pochynaty\n\nCommencer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Закінчувати\n\nZakinchuvaty\n\nTerminer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Красти\n\nKrasty\n\nVoler"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Кидати\n\nKydate\n\nJeter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Слухати\n\nSlukhaty\n\nÉcouter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Тримати\n\nTrymaty\n\nTenir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Дивитись\n\nDyvytysi\n\nRegarder"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Носити\n\nNosyty\n\nPorter"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Творити\n\nTvoryty\n\nCréer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Вирішувати\n\nVyrishuvaty\n\nRésoudre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Підтримувати\n\nPidtrymuvaty\n\nSoutenir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Виглядати\n\nVyhlyadaty\n\nAvoir l'air"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ходити\n\nKhodity\n\nMarcher"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Залишати\n\nZalyshaty\n\nLaisser"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Записувати\n\nZapisuvaty\n\nÉcrire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Питати\n\nPyty\n\nDemander"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Перекладати\n\nPerekladaty\n\nTraduire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Мати\n\nMaty\n\nAvoir / Maman"
+        }
+      ]
+    },
+
+    {
+      "text_entities": [
+        {
+          "text": "Розуміти\n\nRozumity\n\nComprendre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Бачити\n\nBachyty\n\nVoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Чекати\n\nChekaty\n\nAttendre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Кричати\n\nKrychaty\n\nCrier"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Сміятися / Сміятись\n\nSmiyatyся / Smiyatys'\n\nRire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Плакати\n\nPlakaty\n\nPleurer"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ставити\n\nStavyty\n\nMettre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Знімати\n\nZnimaty\n\nEnlever"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Промовляти\n\nPromovlyaty\n\nParler"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Повернутись\n\nPovernutysia\n\nRevenir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Спокійно\n\nSpokiyno\n\nCalmement"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Постійно\n\nPostiyno\n\nConstamment"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Іноді\n\nInodi\n\nParfois"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ніколи\n\nNikolyi\n\nJamais"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Швидко\n\nShvydko\n\nRapidement"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Багато\n\nBahato\n\nBeaucoup"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Справді\n\nSpravdi\n\nVraiment"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Тільки\n\nTil'ky\n\nSeulement"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Сьогодні\n\nS'ohodni\n\nAujourd'hui"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Завтра\n\nZavtra\n\nDemain"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Вчора\n\nVchora\n\nHier"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Завжди\n\nZavzhdy\n\nToujours"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Хорошо\n\nKhorosho\n\nBien"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Погано\n\nPohano\n\nMal"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Секунда\n\nSekunda\n\nSeconde"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Хвилина\n\nKhvylyna\n\nMinute"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Година\n\nHodyna\n\nHeure"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Рік\n\nRik\n\nAnnée"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Сонце\n\nSontse\n\nSoleil"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Місяць\n\nMisyats'\n\nLune / Mois"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Зірка\n\nZirka\n\nÉtoile"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Необхідно\n\nNeobkhidno\n\nNécessaire"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Лише\n\nLyshe\n\nSeulement"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Власний\n\nVlasnyy\n\nPropre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Місто\n\nMisto\n\nVille"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Діти\n\nDity\n\nEnfants"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Список\n\nSpysok\n\nListe"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Вечір\n\nVechir\n\nSoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ранок\n\nRanok\n\nMatin"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Сніг\n\nSnih\n\nNeige"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "День\n\nDen'\n\nJour"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Тема\n\nTema\n\nThème"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ціль\n\nTsil'\n\nObjectif"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Проблема\n\nProblema\n\nProblème"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Порядок\n\nPoryadok\n\nOrdre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Технології\n\nTekhnolohiyi\n\nTechnologie"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Слово\n\nSlovo\n\nMot"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Завдання\n\nZavdannya\n\nTâche"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Здавати\n\nZdavaty\n\nSoumettre"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Перемагати\n\nPeremahaty\n\nGagner"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Одержувати\n\nOderzhuvaty\n\nRecevoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Важливо\n\nVazhlyvo\n\nImportant"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ідея\n\nIdeya\n\nIdée"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Систематизація\n\nSysthematizatsiya\n\nSysthématisation"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Витрати\n\nVytaty\n\nDépenses"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Рішення\n\nRishennya\n\nSolution"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Досвід\n\nDosvid\n\nExpérience"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ринок\n\nRynok\n\nMarché"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Ситуація\n\nSytuatsiya\n\nSituation"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Суспільство\n\nSuspilstvo\n\nSociété"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Інформація\n\nInformatsiya\n\nInformation"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Навчання\n\nNavchannya\n\nApprentissage"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Засоби\n\nZasoby\n\nMoyens"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Використовувати\n\nVykorystovuvaty\n\nUtiliser"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Отримувати\n\nOtrymuvaty\n\nRecevoir"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Час\n\nChas\n\nTemps"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Людина\n\nLudyna\n\nPersonne"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Країна\n\nKrayina\n\nPays"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Знання\n\nZnannya\n\nConnaissance"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Проєкт / Проект\n\nProyekt\n\nProjet"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Спілкування\n\nSpilkuvannya\n\nCommunication"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Дослідження\n\nDoslidzhennya\n\nRecherche"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Люди\n\nLyudy\n\nPersonnes"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Курс\n\nKurs\n\nCours"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Виробництво\n\nVyrobnytstvo\n\nProduction"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Мистецтво\n\nMystetstvo\n\nArt"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Розвиток\n\nRozvytok\n\nDéveloppement"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Система\n\nSystema\n\nSystème"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Команда\n\nKomanda\n\nÉquipe"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Культура\n\nKultura\n\nCulture"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Питання\n\nPytannya\n\nQuestion"
+        }
+      ]
+    }
   ]
- }
+}
