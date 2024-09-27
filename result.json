@@ -1,0 +1,112 @@
+{
+  "name": "Просто - Just",
+  "type": "public_channel",
+  "id": 1446064487,
+  "messages": [
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Привіт\n\nPryvit\n\nSalut"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Добрий день\n\nDobriy den\n\nBonjour"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Добрий вечір\n\nDobriy vechir\n\nBonsoir"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Дякую\n\nDakuyu\n\nMerci"
+     }
+    ]
+   },
+   
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Тому що\n\nTomu shcho\n\nParce que / Car"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Через те що\n\nCherez te shcho\n\nÀ cause de"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Завдяки тому що\n\nZavdyaky tomu shcho\n\nGrâce à"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "У зв'язку з тим що\n\nU zv’yazku z tym shcho\n\nEn raison de"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Оскільки\n\nOs'kilky\n\nPuisque"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Через\n\nCherez\n\nÀ cause de / à travers"
+     }
+    ]
+   },
+   {
+     "text_entities": [
+      {
+       "type": "plain",
+       "text": "Книга\n\nKnyha\n\nLivre"
+      }
+     ]
+   },
+   {
+     "text_entities": [
+      {
+       "type": "plain",
+       "text": "Дім/Будинок/Хата\n\nDim/Budinok/Hata\n\nMaison"
+      }
+     ]
+    },
+    {
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Цікавий факт в Українській мові:\nВ Українській мові немає НІКОЛИ таких букв як: ы, э і ё.\n\nTsikavyy fakt v Ukrayins'kiy movi:\nV Ukrayins'kiy movi nemaє NIKOLY takykh bukv yak: y, e i yo.\n\nFait intéressant dans la langue ukrainienne :\nDans la langue ukrainienne, il n'y a JAMAIS de lettres telles que : ы, э et ё."
+       }
+      ]
+     }
+  ]
+ }
