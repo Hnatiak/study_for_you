@@ -138,6 +138,7 @@ p {
     align-items: center;
     padding: 25px 15px 55px 15px;
     width: 100%;
+    margin-top: 25px;
 }
 
 .error {
