@@ -24,13 +24,6 @@
     {
       "text_entities": [
         {
-          "text": "Добрий день\n\nDobriy den\n\nBonjour"
-        }
-      ]
-    },
-    {
-      "text_entities": [
-        {
           "text": "Добрий вечір\n\nDobriy vechir\n\nBonsoir"
         }
       ]
