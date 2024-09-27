@@ -984,6 +984,55 @@
           "text": "Шукати\n\nShukaty\n\nChercher"
         }
       ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Принцеса\n\nPryntseza\n\nPrincesse"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Принц\n\nPrynts\n\nPrince"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Солодких снів\n\nSolodkykh sniv\n\nDouces nuits"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "На добраніч\n\nNa dobranich\n\nBonne nuit"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Як справи\n\nYak spravy\n\nComment ça va"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Добрий день\n\nDobriy den'\n\nBonjour"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
+          "text": "Спокійної ночі\n\nSpokiy'noyi nochi\n\nBonne nuit"
+        }
+      ]
     }
   ]
 }
