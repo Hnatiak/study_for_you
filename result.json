@@ -17,6 +17,13 @@
     {
       "text_entities": [
         {
+          "text": "Цікавий факт В Українській мові:\nМайже всі професії закінчуються на -ка або -ця(-ня), для прикладу:\nДиректор (чоловічий рід) - Директорка (жіночий рід)\nВчитель - Вчителька\nПрофесор - Професорка\nСлухач - Слухачка\nМузикант - Музикантка\nВикладач - Викладачка\nВідмінник - Відмінниця\nКрасень - Красуня\nІ так далі\n\nTsikavyi fakt V Ukrayins'kiy movi:\nMayzhe vsi profesiyi zakinchuyut'sya na -ka abo -tsya(-nya), dlya prykladu:\nDyrektor (cholovychyy rid) - Dyrektorка (zhinochyy rid)\nVchytel' - Vchytel'ka\nProfesor - Profesor'ka\nSlukhach - Slukhachka\nMuzykant - Muzykantka\nVyklyadach - Vyklyadachka\nVidminnyk - Vidminnytsya\nKrasen' - Krasunya\nI tak dali\n\nFait intéressant dans la langue ukrainienne:\nPresque tous les métiers se terminent par -ka ou -tsia (-nya), par exemple :\nDirecteur (masculin) - Directrice (féminin)\nEnseignant - Enseignante\nProfesseur - Professeure\nAuditeur - Auditrice\nMusicien - Musicienne\nProfesseur - Professeure\nÉlève modèle - Élève modèle (ou élève de mérite)\nBeau - Belle\nEt cetera"
+        }
+      ]
+    },
+    {
+      "text_entities": [
+        {
           "text": "Привіт\n\nPryvit\n\nSalut"
         }
       ]
